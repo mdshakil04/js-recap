@@ -1,5 +1,5 @@
 // console.log("Hello world")
-// Practice 1
+// Practice 1 Page no 47
 const earnings = 100;
 const khoros = 40;
 const remainings = earnings - khoros;
@@ -16,3 +16,8 @@ const timesICanUse = takaIHave / myCost;
 const remainingsTaka = takaIHave % myCost;
 // console.log(remainingsTaka);
 // console.log(timesICanUse);
+// Practice 4
+const firstStr = "Hello";
+const secondStr = "World";
+const fullWord = firstStr + " " + secondStr;
+// console.log(fullWord);
