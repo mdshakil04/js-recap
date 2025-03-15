@@ -21,3 +21,8 @@ const firstStr = "Hello";
 const secondStr = "World";
 const fullWord = firstStr + " " + secondStr;
 // console.log(fullWord);
+// Practice 5
+const rice = 153;
+const dall = 261;
+const total = rice + dall;
+console.log(total);
