@@ -25,4 +25,4 @@ const fullWord = firstStr + " " + secondStr;
 const rice = 153;
 const dall = 261;
 const total = rice + dall;
-console.log(total);
+console.log( total + " kgs");
