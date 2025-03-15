@@ -4,4 +4,6 @@ const myGoal = "Insha-Allah! I will be a programmer"
 const myName = "MD Shakil"
 const myAge = 34;
 const goodMan = true;
-console.log(typeof myName, typeof myAge, typeof goodMan)
+// console.log(typeof myName, typeof myAge, typeof goodMan)
+const todaysTemparature = 30.45;
+console.log(typeof todaysTemparature)
