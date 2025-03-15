@@ -48,3 +48,4 @@ console.log("I can eat " + myDays + " days of those rice.");
 const oneMonth = 30;
 const myMonths = myDays / oneMonth;
 console.log("I can eat " +  myMonths + " months of those rice.");
+// console.log(typeof totalRice)
