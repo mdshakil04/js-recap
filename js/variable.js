@@ -33,3 +33,18 @@ const howMuchTimesIUse = myTaka / myKhoros;
 // console.log(howMuchTimesIUse);
 const myRemaingsTaka = myTaka % myKhoros;
 // console.log(myRemaingsTaka)
+// Practice 7
+const bajjo = 8;
+const bajok = 3;
+const bagfol = bajjo / bajok;
+// console.log("Bagfol is "+ bagfol);
+const bagses = bajjo % bajok;
+// console.log("Bagses is " +bagses);
+// Practice 8
+const totalRice = 480;
+const myNeeds = 4;
+const myDays = totalRice / myNeeds;
+console.log("I can eat " + myDays + " days of those rice.");
+const oneMonth = 30;
+const myMonths = myDays / oneMonth;
+console.log("I can eat " +  myMonths + " months of those rice.");
