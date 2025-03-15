@@ -25,4 +25,11 @@ const fullWord = firstStr + " " + secondStr;
 const rice = 153;
 const dall = 261;
 const total = rice + dall;
-console.log( total + " kgs");
+// console.log( total + " kgs");
+// Practice 6
+const myTaka = 500;
+const myKhoros = 75;
+const howMuchTimesIUse = myTaka / myKhoros;
+// console.log(howMuchTimesIUse);
+const myRemaingsTaka = myTaka % myKhoros;
+// console.log(myRemaingsTaka)
