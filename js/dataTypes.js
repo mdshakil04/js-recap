@@ -8,6 +8,13 @@ const goodMan = true;
 const todaysTemparature = 30.45;
 // console.log(typeof todaysTemparature)
 let price = 35;
-console.log("Before changed " + price)
+// console.log("Before changed " + price)
 price = 50;
-console.log("After changed " + price)
+// console.log("After changed " + price)
+// Practice task 1
+let friendCount = 5;
+let friendsGone = 2;
+let friendsRemaining = friendCount - friendsGone;
+// console.log("Friends remaining: " + friendsRemaining)
+friendCount = 3;
+// console.log(friendCount)
