@@ -18,3 +18,14 @@ let friendsRemaining = friendCount - friendsGone;
 // console.log("Friends remaining: " + friendsRemaining)
 friendCount = 3;
 // console.log(friendCount)
+// Practice task 2
+let chairCount = 40;
+let damagedChair = 2;
+let chairRemain = chairCount - damagedChair;
+chairCount = chairRemain;
+console.log(chairCount)
+let givenChair = 6;
+let totalChair = chairRemain + givenChair;
+// console.log(chairCount)
+chairCount = totalChair;
+console.log(chairCount);
