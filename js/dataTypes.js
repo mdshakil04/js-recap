@@ -34,5 +34,5 @@ const myBoyos = '32';
 const wifeAge = '24'
 
 let sum = parseInt(myBoyos) + parseInt(wifeAge);
-console.log(sum)
+// console.log(sum)
 
