@@ -23,9 +23,16 @@ let chairCount = 40;
 let damagedChair = 2;
 let chairRemain = chairCount - damagedChair;
 chairCount = chairRemain;
-console.log(chairCount)
+// console.log(chairCount)
 let givenChair = 6;
 let totalChair = chairRemain + givenChair;
 // console.log(chairCount)
-chairCount = totalChair;
-console.log(chairCount);
+chairCount = totalChair; 
+// console.log(chairCount);
+// Practice task 3
+const myBoyos = '32';
+const wifeAge = '24'
+
+let sum = parseInt(myBoyos) + parseInt(wifeAge);
+console.log(sum)
+
