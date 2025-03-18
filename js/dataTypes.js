@@ -32,7 +32,7 @@ chairCount = totalChair;
 // Practice task 3
 const myBoyos = '32';
 const wifeAge = 'x24'
-console.log(wifeAge)
+// console.log(wifeAge)
 let sum = parseInt(myBoyos) + parseInt(wifeAge);
-console.log(sum)
+// console.log(sum)
 
