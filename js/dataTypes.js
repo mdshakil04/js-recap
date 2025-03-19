@@ -36,3 +36,11 @@ const wifeAge = 'x24'
 let sum = parseInt(myBoyos) + parseInt(wifeAge);
 // console.log(sum)
 
+// Another task
+// const sugar = parseInt(1.2223344);
+const sugar = 1.2223344;
+// console.log(sugar)
+const salt = 3.11113253
+const total = sugar + salt;
+console.log(total)
+console.log(total.toFixed(5));
