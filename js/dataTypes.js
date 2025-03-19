@@ -43,4 +43,4 @@ const sugar = 1.2223344;
 const salt = 3.11113253
 const total = sugar + salt;
 console.log(total)
-console.log(total.toFixed(5));
+console.log(total.toFixed(2));
