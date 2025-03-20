@@ -42,9 +42,13 @@ const sugar = 1.2223344;
 // console.log(sugar)
 const salt = 3.11113253
 const total = sugar + salt;
-console.log(total)
+// console.log(total)
 // console.log(total.toFixed(2));
 const num1 = '20';
 const num2 = 10;
 const sum1 = parseInt(num1) + num2;
-console.log(sum1)
+// console.log(sum1)
+// Loop
+for (let i = 1 ; i <= 10; i++){
+    console.log(i);
+}
